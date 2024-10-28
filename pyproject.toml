@@ -95,6 +95,8 @@ include = [
     "LICENSE.APACHE",
     "LICENSE.BSD",
 
+    "pyproject.toml",
+
     "docs/**/*",
 
     "src/_cffi_src/**/*.py",
